@@ -1,0 +1,22 @@
+h1{
+ color:rgb(255,0,128);
+  font-size:40px; 
+}
+
+header {
+  background: url(http://subtlepatterns.com/patterns/skulls.png ) ;
+}
+
+pi{
+  display:inline;
+}
+
+
+li {
+            background: url(http://subtlepatterns.com/patterns/food.png);
+            margin-bottom:5px;
+            width: 200px;
+            height: 5px;
+            padding: 1em;
+            list-style: none;
+        }
